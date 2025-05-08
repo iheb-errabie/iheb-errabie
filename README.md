@@ -34,30 +34,24 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** and software ent
 
 ## 🧩 Featured Projects
 
-### 🛒 [E-Commerce Platform](https://github.com/iheb-errabie/ecommerce-platform)
+### 🛒 [E-Commerce Platform](https://github.com/iheb-errabie/front)
 > **MERN stack multi-role e-commerce platform:**  
 > - Buyer, Vendor, Admin dashboards  
 > - Dynamic cart, wishlist, orders  
 > - Product management, analytics, authentication
 
-### 📈 [Portfolio Website](https://github.com/iheb-errabie/portfolio)
-> My personal portfolio, built with React, modern CSS, and animated UI
-
-### 🤖 [AI Chatbot](https://github.com/iheb-errabie/ai-chatbot)
-> Conversational chatbot using Node.js, Express, and OpenAI API
 
 ---
 
 ## 📣 How to Reach Me
 
 - **Email:** iheb.errabie@gmail.com
-- **LinkedIn:** [linkedin.com/in/iheb-errabie](https://www.linkedin.com/in/iheb-errabie/)
-- **Twitter:** [@iheb_errabie](https://twitter.com/iheb_errabie)
-- **Blog:** [dev.to/iheberrabie](https://dev.to/iheberrabie) *(if applicable)*
+- **LinkedIn:** [linkedin.com/in/iheb-errabie](https://www.linkedin.com/in/iheb-errabie-268460320/)
+
 
 ---
 
-## 📚 Latest Blog Posts
+## 📚 Latest Blog Readed
 
 <!-- BLOG-POST-LIST:START -->
 - [10 Tips for Writing Clean React Code](https://dev.to/iheberrabie/10-tips-for-writing-clean-react-code-1234)
